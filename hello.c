@@ -3,8 +3,11 @@
 
 Int main(void) {
 
-	printf("Maxx Seminario\n", );
-	printf("Electrical Engineering\n", );
+	printf("Maxx Seminario\n" );
+	printf("Electrical Engineering\n" );
 
-	Return 0;
+	printf("Kevin Mai\n");
+	printf("Software Engineering\n");
+
+	return 0;
 }
